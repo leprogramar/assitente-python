@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rose-python-assitente",
+  "private_key_id": "1221a3067ae743247a507a01e4ca41baf01b0e84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3YE9XpurILaZX\nEP7W0M+KBRoR/3j2+gmhKsTUKvOkBUPgkvhXEGAYY9bcqVKMXaaDHLVa6BEmqdXy\nzbzf5dHFILTLUc1YfWzcMfCE+wlaHRfAk3QwDKVVDLM3nYrgK7CGLtuldWtNDNcQ\nTaVXpTBK/jaDYxqfMg0jDGDhNsArx9+Ih3ic23lFKvvclJfLng2HgKlu8PY0kW/n\nYWrsjnNeHNMyWq2x7hQLn9uZQXU3W19W1XyvaVGD795JXdmSUMMVP/Pyo7n0orU8\nb1IMT/EDmwlbrdjsy8eCobHOoC79oXQDm49xJ6iS63bPCTGR3kNt+O7oc3GzOV0U\neQCJaCbJAgMBAAECggEABdvv7Q8KRWcf/3wtiFOXrgNHt/d/t/R5RksFivnsWvtI\nFe7cPHvrdhwKi3ZlitKbNWk/ai4sDh4zFdT5CfZf43qODEkK1J79UXPPCZCz1ctE\nLQUJG1fsGHGVcFt6Snta4o6wufKsgQO+A2lXtRs0FdFVkJEkEp4YyVvl5IxJS5zD\nYGnLXReonbP3GKKdrJDQdG4cslkYFkx1uZAtDJa5lkOlP9oxwpV/AwrcpXZfGpJA\n5OiNJBeb8+C4ehw6e962K8yrxwxEWbdLOQ82eoWwPiML4pkBh8ObaQHrW6jBKrxc\nPhSrSixCZyQQFsUyGU/AiDseGb5IzDKJr9PiPbAbmQKBgQDuw9dbXLT1pNAYwd71\nT+1v5xF/xcxFX8cEt2Lwk4Jysuk2e/BUgR/yaF4Elk5MqqaajRjiPBqVGyIY9UnE\nknAcEhkzMCNV7xWlG+5f33aT9f3g5ozjcNQUdSM9jkDUuhuAPmm/VTzgrOHSgSTk\ncpQIl655OojcS1mNmVU11Z4AhwKBgQDEnO85gU8jXkRLb5bJ8vM93zQZOPCOrJ/f\nFN2jk4MOfBr57nnMv3HBuYXZ5+30WqkZAFRv08vrLFP2X3vs415TFWL0JA4I0n4I\ngQf4kJaE7eos5vXo65GYkhltdO2OKWsuZfgvm9mYSvZref2ftDawM/r0OrS5x1BM\nYUZCUbMCLwKBgQCvWBGS3d1jPJs6Yz4ax4zmjjoyrI8cL39XvlmhtaKqGyvbwF85\nn+5XNkA9fCiacwSRIaexlVQsRlXfIFwBSU2dv8jT57k7ha5Op9mCfPh3JsNAY+/5\no8WMFI5ByXNhBh/mKW+9fJqNoUjiL8dpIaAHQ2V1UABsT8W/kGicdXlohwKBgGeR\n7+bP+js8XieKydjqFT5jhNNAjl/qCXF/UV3ox+HqeF9uQ1UbCDavnxXxugS9eVRF\nOzWJUWM5/6TKGcLo5vhHTNAk6gu1rlSWe/dxWwj9Nx2eMK4Y4aKIW8KwFK+Nm/te\nFcYmiBJUcsidA4CMcz6Qs0LSZf9zQhZqK5Ol6/FbAoGAZzGaCTsBWkrbV+auBzgJ\np7viCDnO+O4uHj9GM3fofVdk/otz2jaLVu0H2NZaQYdbMkbH0GtIR2Nl0qivhshF\nQoZUKEHBii+s8ACWc5fEb29vzzGFkGbLaA8qncqqrOPpVFlHZo7GGFZ4DvVQmz0R\ni3kyvApQEK7JiuRLcnvpO8A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-let-thiag@rose-python-assitente.iam.gserviceaccount.com",
+  "client_id": "112204735096128593840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-let-thiag%40rose-python-assitente.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
